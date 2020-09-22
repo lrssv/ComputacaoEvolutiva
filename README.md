@@ -3,9 +3,9 @@
 
 The <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treatment.ipynb">Main</a> file contains all code. The genetic algorithm is represented step-by-step in the next ones files:
 
-* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treatment.ipynb">Data Treatment</a>: the original dataset without some data that is not relevant for the problem, and the technic Target Encoder to transform categorical data into numerical.
+* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treatment.ipynb">Data Treatment</a>: the original dataset without some data that is not relevant for the problem, and the technic Target Encoder to transform categorical data into numerical;
 
-* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Initial_population.ipynb">Initital Population</a>: create the initial population, where each individual has the features presents in dataset.
+* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Initial_population.ipynb">Initital Population</a>: create the initial population, where each individual has the features presents in dataset;
 
 * <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Fitness.ipynb">Fitness</a>: defines the fitness;
 
@@ -13,6 +13,5 @@ The <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treat
 
 * <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/MutationandCrossover.ipynb">Mutation and Crossover</a>: steps for mutation or crossover;
 
-* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Survivors.ipynb">Survivors</a>: the next generation of the bests individuals;
-
+* <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Survivors.ipynb">Survivors</a>: the next generation of the bests individuals.
 
