@@ -1,4 +1,4 @@
-<h1> Computacao Evolutiva - BCC461 </h1>
+<h1> Evolutionary Computing - BCC461 </h1>
 <h3> This repository contains the source files for Evolutionary Computing tasks.</h3>
 
 The <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treatment.ipynb">Main</a> file contains all code. The genetic algorithm is represented step-by-step in the next ones files:
