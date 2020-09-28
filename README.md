@@ -16,3 +16,7 @@ The <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Data_treat
 
 * <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Survivors.ipynb">Survivors</a>: the next generation of the bests individuals.
 
+<h4>Course part 2 (at branch Part-2):</h4>
+
+* Added _Parameter Control_ in <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/Part-2/Initial_population.ipynb">Initital Population</a>. And used in steps for mutation or crossover;
+
