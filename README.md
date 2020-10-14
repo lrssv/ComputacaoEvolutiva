@@ -23,3 +23,5 @@ The <a href="https://github.com/lrssv/ComputacaoEvolutiva/tree/Part-2">Main</a> 
 * Added _Parameter Control_ in <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/Part-2/Initial_population.ipynb">Initital Population</a>. And used in steps for mutation or crossover;
 
 * Added _Pareto fronts_ and _NSGA-II_ in <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/Part-2/Pareto_front.ipynb">Pareto Front</a>. 
+
+* In <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/Part-2/Pareto_front.ipynb">Evaluation</a> has the final results and plots. 
