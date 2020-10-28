@@ -26,5 +26,5 @@ The <a href="https://github.com/lrssv/ComputacaoEvolutiva/tree/Part-2">Main</a> 
 
 * In <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/Part-2/Pareto_front.ipynb">Evaluation</a> has the final results and plots. 
 
-* And in <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/ComputacaoEvolutivav%20-%20Artigo.pdf">this file</a> can be read the article made for the course.
+* And in <a href="https://github.com/lrssv/ComputacaoEvolutiva/blob/master/Artigo_ComputacaoEvolutiva.pdf">this file</a> can be read the article made for the course.
 
